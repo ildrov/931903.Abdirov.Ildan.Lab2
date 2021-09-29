@@ -1,0 +1,13 @@
+﻿body {
+}
+
+.osnova {
+    background-color: aqua;
+    width: 100%;
+    border: 1px solid forestgreen;
+    height: 265px;
+}
+img {
+    
+    float:right;
+}

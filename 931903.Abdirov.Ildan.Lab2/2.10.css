@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.floatbox {
+    background-color: aquamarine;
+    width: 170px;
+    height: 100px;
+    position:relative;
+    float:left;
+    top:20px;
+    left:20px;
+    margin-bottom:40px;
+}
+.dlinpolosa{
+    clear:both;
+    width:100%;
+    background-color:bisque;
+}

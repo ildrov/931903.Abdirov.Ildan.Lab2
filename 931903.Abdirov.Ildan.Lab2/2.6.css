@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.greenpage {
+    position: relative;
+    width: 700px;
+    color: black;
+    margin: 20px auto 20px;
+}
+
+
+
+.bluepage {
+    width: 600px;
+    color: black;
+    margin: 0 auto;
+    padding: 40px 40px 40px 40px;
+    border:  10px solid blue;
+}

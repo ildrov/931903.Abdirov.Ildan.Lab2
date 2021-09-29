@@ -1,0 +1,10 @@
+﻿body {
+}
+
+
+.page {
+    max-width: 800px;
+    background-color: blue;
+    color: white;
+    margin: auto;
+}

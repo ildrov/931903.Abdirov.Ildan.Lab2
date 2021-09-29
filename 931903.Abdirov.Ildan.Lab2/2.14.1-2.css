@@ -1,0 +1,53 @@
+﻿p {
+    margin: 0;
+}
+
+.spisok {
+    background-color: bisque;
+    height: 50px;
+    width: 15%;
+    padding: 10px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.aqudiv {
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    border-spacing: 0;
+    border: 2px solid green;
+}
+
+.darkgraydiv {
+    width: auto;
+    height: auto;
+    margin-left: 16.5%;
+    background-color: darkgray;
+}
+
+@media screen and (max-width:800px) {
+    .spisok {
+        background-color: bisque;
+        height:1px;
+        width: 90vw;
+        float: left;
+    }
+    li {
+        display: inline;
+        list-style: none;
+        
+    }
+
+    .darkgraydiv {
+        height: auto;
+        width: 100%;
+        margin: 0%;
+        clear: left;
+        float: left;
+        color: black;
+        background-color: darkgray;
+    }
+}
