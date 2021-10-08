@@ -1,0 +1,38 @@
+﻿body {
+}
+.spisok {
+    position: absolute;
+    background-color: bisque;
+    width: 200px;
+    color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.aqudiv {
+    position: relative;
+    background-color: aqua;
+    max-width: 1600px;
+    height: 100%;
+    
+}
+
+.darkgraydiv {
+    position: relative;
+    display: block;
+    background-color: darkgrey;
+    height: inherit;
+    left: 200px;
+}
+.footer {
+    position:fixed;
+    background-color:limegreen;
+    bottom:0;
+    height:50px;
+    width: 100%;
+}
+
+
+
+
